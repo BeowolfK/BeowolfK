@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&style=social)](https://github.com/Lindwen/?tab=follow)
+
+![Lindwen](https://komarev.com/ghpvc/?username=BeowolfK)
+
+![Lindwen's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeowolfK&layout=compact&hide_border=true)
+
 <!--
 **BeowolfK/BeowolfK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
