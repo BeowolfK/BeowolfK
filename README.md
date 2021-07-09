@@ -2,7 +2,7 @@
 ## I'm BeowolfK, a fullstack developer in the making
 # A Cybersecurity fan 
 
-🌱 I’m currently learning <img src="https://img.icons8.com/color/452/c-programming.png" alt="C Programming" width="15"> programming
+🌱 I’m currently learning <img src="https://img.icons8.com/color/452/c-programming.png" alt="C Programming" width="20"> programming
 
 🔭 I’m currently working on a new crypto currency
 
