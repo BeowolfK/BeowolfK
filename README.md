@@ -1,10 +1,5 @@
 ### Hi there 👋
 ## I'm BeowolfK, a fullstack developer in the making and a cyber expert
-# My Project :
-
-🌱 I’m currently learning C programming
-
-🔭 I’m currently working on a new crypto currency
 
 # My Stats : 
 
@@ -15,7 +10,11 @@
 ![BeowolfK's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true&theme=onedark&cache_seconds=1800&include_all_commits=true&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeowolfK&layout=compact&theme=onedark&cache_seconds=1800&langs_count=10&hide_border=true)
 
+# My Projects :
 
+🌱 I’m currently learning C programming
+
+🔭 I’m currently working on a new crypto currency
 
 <!--
 **BeowolfK/BeowolfK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
