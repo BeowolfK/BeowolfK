@@ -1,10 +1,12 @@
 ### Hi there 👋
-## I'm BeowolfK, a fullstack developer in the making
-# A Cybersecurity fan 
+## I'm BeowolfK, a fullstack developer in the making and a cyber expert
+# My Project :
 
 🌱 I’m currently learning C programming
 
 🔭 I’m currently working on a new crypto currency
+
+# My Stats : 
 
 ![BeowolfK](https://komarev.com/ghpvc/?username=BeowolfK)
 
