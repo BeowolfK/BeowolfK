@@ -9,8 +9,7 @@
 🐧 Linux Fan : Arch Linux and Debian user
 
 ![BeowolfK](https://img.shields.io/github/followers/BeowolfK?label=Follow&color=blueviolet&style=flat-square&logo=Arch+Linux)
-
-[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&style=social&style=for-the-badge&logo=appveyor&color=blueviolet)](https://github.com/BeowolfK/?tab=follow)
+[![GitHub followers](https://komarev.com/ghpvc/?username=BeowolfK&color=blueviolet&style=flat-square)](https://github.com/BeowolfK/?tab=follow)
 
 ![BeowolfK's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true&theme=onedark&cache_seconds=1800&include_all_commits=true&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeowolfK&layout=compact&theme=onedark&cache_seconds=1800&langs_count=10&hide_border=true)
