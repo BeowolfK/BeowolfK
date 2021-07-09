@@ -6,8 +6,7 @@
 
 🔭 I’m currently working on a new crypto currency
 
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+![Alt text](https://simpleicons.org/icons/archlinux.svg)
 
 🐧 Linux Fan : Arch Linux and Debian user
 
