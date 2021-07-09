@@ -6,9 +6,7 @@
 
 🔭 I’m currently working on a new crypto currency
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" alt="Arch Linux" width="50">
-
-🐧 Linux Fan : Arch Linux and Debian user
+🐧 Linux Fan : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" alt="Arch Linux" width="20"> Arch Linux and Debian user
 
 ![BeowolfK](https://img.shields.io/github/followers/BeowolfK?label=Follow&color=blueviolet&style=flat-square&logo=Arch+Linux)
 [![GitHub followers](https://komarev.com/ghpvc/?username=BeowolfK&color=blueviolet&style=flat-square)](https://github.com/BeowolfK/?tab=follow)
