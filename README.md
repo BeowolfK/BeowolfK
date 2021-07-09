@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I'm BeowolfK, a fullstack developer in the making
-### A Cybersecurity fan 
+## I'm BeowolfK, a fullstack developer in the making and a cyber expert
+### A Cybersecurity, Programming, Linux fan
 
 🌱 I’m currently learning <img src="https://img.icons8.com/color/452/c-programming.png" alt="C Programming" width="20"> programming
 
