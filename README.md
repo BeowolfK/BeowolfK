@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning <img src="https://img.icons8.com/color/452/c-programming.png" alt="C Programming" width="20"> programming
 
-🔭 I’m currently working on a new <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/1200px-BTC_Logo.svg.png" alt="C Programming" width="20"> crypto currency
+🔭 I’m currently working on a new crypto currency <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/1200px-BTC_Logo.svg.png" alt="C Programming" width="20"> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="Tux" width="15"> Linux Fan : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" alt="Arch Linux" width="15"> Arch Linux and  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/827px-Openlogo-debianV2.svg.png" alt="Debian" width="15"> Debian user
 
