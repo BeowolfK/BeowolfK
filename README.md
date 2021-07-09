@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on a new crypto currency
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" style="height=50px;width=50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" style="height=10px;width=50px">
 
 🐧 Linux Fan : Arch Linux and Debian user
 
