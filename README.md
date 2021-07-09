@@ -10,6 +10,8 @@
 
 🐧 Linux Fan : Arch Linux and Debian user
 
+![Alt text](https://simpleicons.org/icons/archlinux.pdf)
+
 ![BeowolfK](https://img.shields.io/github/followers/BeowolfK?label=Follow&color=blueviolet&style=flat-square&logo=Arch+Linux)
 [![GitHub followers](https://komarev.com/ghpvc/?username=BeowolfK&color=blueviolet&style=flat-square)](https://github.com/BeowolfK/?tab=follow)
 
