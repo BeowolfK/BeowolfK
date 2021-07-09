@@ -1,20 +1,21 @@
 ### Hi there 👋
-## I'm BeowolfK, a fullstack developer in the making and a cyber expert
-
-# My Stats : 
-
-![BeowolfK](https://komarev.com/ghpvc/?username=BeowolfK)
-
-[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&style=social)](https://github.com/Lindwen/?tab=follow)
-
-![BeowolfK's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true&theme=onedark&cache_seconds=1800&include_all_commits=true&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeowolfK&layout=compact&theme=onedark&cache_seconds=1800&langs_count=10&hide_border=true)
-
-# My Projects :
+## I'm BeowolfK, a fullstack developer in the making
+# A Cybersecurity fan 
 
 🌱 I’m currently learning C programming
 
 🔭 I’m currently working on a new crypto currency
+
+🐧 Linux Fan : Arch Linux and Debian user
+
+![BeowolfK](https://img.shields.io/github/followers/BeowolfK?label=Follow&color=blueviolet&style=flat-square&logo=Arch+Linux)
+
+[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&style=social&style=for-the-badge&logo=appveyor&color=blueviolet)](https://github.com/BeowolfK/?tab=follow)
+
+![BeowolfK's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true&theme=onedark&cache_seconds=1800&include_all_commits=true&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeowolfK&layout=compact&theme=onedark&cache_seconds=1800&langs_count=10&hide_border=true)
+
+
 
 <!--
 **BeowolfK/BeowolfK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
