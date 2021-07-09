@@ -1,12 +1,15 @@
 ### Hi there 👋
+## I'm BeowolfK, a fullstack developer in the making
+# A Cybersecurity fan 
 
-
-[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&style=social)](https://github.com/Lindwen/?tab=follow)
+🌱 I’m currently learning C programming
+🔭 I’m currently working on a new crypto currency
 
 ![BeowolfK](https://komarev.com/ghpvc/?username=BeowolfK)
 
-![BeowolfK's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true) 
+[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&style=social)](https://github.com/Lindwen/?tab=follow)
 
+![BeowolfK's github stats](https://github-readme-stats.vercel.app/api?username=BeowolfK&show_icons=true&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeowolfK&layout=compact)
 
 
