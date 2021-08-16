@@ -8,6 +8,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="Tux" width="15"> Linux Fan : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png" alt="Arch Linux" width="15"> Arch Linux and  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/827px-Openlogo-debianV2.svg.png" alt="Debian" width="15"> Debian user
 
+Join me on <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fdiscord-logo-png&psig=AOvVaw2cTO_r5QPXHmCZq3_B4Efs&ust=1629228378794000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCSgumitvICFQAAAAAdAAAAABAD" alt="Discord" width="15"> Discord at [BeowolfK](https://discordapp.com/users/401121811250544641)
+
+
 [![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&color=blueviolet&style=flat-square&logo=GitHub)](https://github.com/BeowolfK/?tab=follow)
 ![BeowolfK](https://komarev.com/ghpvc/?username=BeowolfK&color=blueviolet&style=flat-square)
 
